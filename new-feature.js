@@ -1,0 +1,1 @@
+console.log("tässä nyt se uusi ominaisuus")
