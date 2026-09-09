@@ -1,3 +1,3 @@
-console.log('Moro!');
-console.log('Moro!');
-console.log('Moro!');
+// Uusi haara, erilainen versio
+console.log("Tämä menee toiseen branchiin.")
+
