@@ -1,3 +1,4 @@
 console.log("tässä nyt se uusi ominaisuus")
-console.log("tämä on toinen versio siitä")
-console.log("kuha kokeillaan")
+// tämä rivi muokattu kehityshaarassa
+console.log("tämä on neljäs versio siitä")
+// tuleekohan konflikti?
